@@ -21,5 +21,8 @@ where to give a specific offer to a specific customer.
 The main results and implications of the analysis can be found at medium.
 [Medium Blog Post](https://nille30.medium.com/analyzing-starbucks-promotion-offers-with-a-data-science-approach-a709edbb7bf)
 
+The necessary code for the analysis and the can be found at github.
+[github](https://github.com/Nille30/Starbucks-Project/blob/main/Starbucks_project.ipynb)
+
 ## Acknowledgements and Licensing
 Thanks to Udacity for the preceding course and Starbucks for the provided data for this project.
